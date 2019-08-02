@@ -3,7 +3,18 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-    <RepositoryUrl>https://github.com/tomkerkhove/github-package-registry-sandbox</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/arcus-azure/arcus.sandbox</PackageProjectUrl>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Arcus</Authors>
+    <Description>Provides support for Azure Key Vault</Description>
+    <Copyright>Copyright (c) Arcus</Copyright>
+    <PackageLicenseUrl>https://github.com/arcus-azure/arcus.sandbox/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/arcus-azure/arcus/master/media/arcus.png</PackageIconUrl>
+    <RepositoryUrl>https://github.com/arcus-azure/arcus.sandbox</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>Azure;Key Vault;Security</PackageTags>
+    <PackageId>Arcus.Sandbox</PackageId>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
   </PropertyGroup>
 
 </Project>
